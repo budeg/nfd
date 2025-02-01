@@ -1,7 +1,7 @@
-const TOKEN = ENV_BOT_TOKEN // Get it from @BotFather
+const TOKEN = 6755504083:AAG9Ic6QNLnGJrUpxeTtIeZrKkMbadm3bQU // Get it from @BotFather
 const WEBHOOK = '/endpoint'
-const SECRET = ENV_BOT_SECRET // A-Z, a-z, 0-9, _ and -
-const ADMIN_UID = ENV_ADMIN_UID // your user id, get it from https://t.me/username_to_id_bot
+const SECRET = e4726333-2d7c-43fa-9a80-df7a85ac9d45 // A-Z, a-z, 0-9, _ and -
+const ADMIN_UID = 6083463042 // your user id, get it from https://t.me/username_to_id_bot
 
 const NOTIFY_INTERVAL = 3600 * 1000;
 const fraudDb = 'https://raw.githubusercontent.com/LloydAsp/nfd/main/data/fraud.db';
