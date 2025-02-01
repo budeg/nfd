@@ -1,7 +1,7 @@
-const TOKEN = 6755504083:AAG9Ic6QNLnGJrUpxeTtIeZrKkMbadm3bQU // Get it from @BotFather
+const TOKEN = 7587917121:AAEo-Nr-eay7tlRG5xDLCw_7GExOJE8e1WQ // Get it from @BotFather
 const WEBHOOK = '/endpoint'
 const SECRET = e4726333-2d7c-43fa-9a80-df7a85ac9d45 // A-Z, a-z, 0-9, _ and -
-const ADMIN_UID = 6083463042 // your user id, get it from https://t.me/username_to_id_bot
+const ADMIN_UID = 924527341 // your user id, get it from https://t.me/username_to_id_bot
 
 const NOTIFY_INTERVAL = 3600 * 1000;
 const fraudDb = 'https://raw.githubusercontent.com/budeg/nfd/main/data/fraud.db';
